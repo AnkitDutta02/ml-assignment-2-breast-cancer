@@ -1,6 +1,9 @@
 # Breast Cancer Diagnosis — ML Assignment 2
 
-M.Tech (AIML), Machine Learning, BITS Pilani WILP
+M.Tech (AIML), Machine Learning
+
+**BITS ID:** `2026ak05064`
+**Name:** `Ankit Dutta`
 
 **Live app:** `https://ml-assignment-2-breast-cancer-sdbt2aeiehzpmodzjc5r5w.streamlit.app/`
 
