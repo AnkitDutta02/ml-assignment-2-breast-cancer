@@ -4,7 +4,8 @@ M.Tech (AIML), Machine Learning, BITS Pilani WILP
 
 **Live app:** `https://ml-assignment-2-breast-cancer-sdbt2aeiehzpmodzjc5r5w.streamlit.app/`
 
-**BITS Virtual Lab Execution Screenshot** 
+**BITS Virtual Lab Execution Screenshot:** 
+
 <img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/3563e72f-f66d-42b9-a283-19b8c6ab0ca4" />
 
 <img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/39fbe087-6fa5-4afa-8f0d-64a50cc7e4ff" />
