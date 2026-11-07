@@ -2,7 +2,7 @@
 
 M.Tech (AIML), Machine Learning, BITS Pilani WILP
 
-**Live app:** `<PASTE YOUR STREAMLIT APP LINK HERE>`
+**Live app:** `https://ml-assignment-2-breast-cancer-sdbt2aeiehzpmodzjc5r5w.streamlit.app/`
 
 ## a. Problem statement
 
@@ -29,7 +29,7 @@ Note: scikit-learn encodes 0 = malignant. The target was re-encoded so that **1 
 
 ## c. GitHub repository link
 
-`<PASTE YOUR GITHUB REPOSITORY LINK HERE>`
+`https://github.com/AnkitDutta02/ml-assignment-2-breast-cancer/tree/main/ml-assignment-breast-cancer`
 
 ```
 project-folder/
