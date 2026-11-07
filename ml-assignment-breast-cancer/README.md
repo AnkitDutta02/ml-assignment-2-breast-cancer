@@ -4,6 +4,11 @@ M.Tech (AIML), Machine Learning, BITS Pilani WILP
 
 **Live app:** `https://ml-assignment-2-breast-cancer-sdbt2aeiehzpmodzjc5r5w.streamlit.app/`
 
+**BITS Virtual Lab Execution Screenshot** 
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/3563e72f-f66d-42b9-a283-19b8c6ab0ca4" />
+
+<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/39fbe087-6fa5-4afa-8f0d-64a50cc7e4ff" />
+
 ## a. Problem statement
 
 Given 30 numeric measurements of cell nuclei taken from a digitised fine needle aspirate (FNA) image of a breast mass, predict whether the mass is **malignant (1)** or **benign (0)**. This is a binary classification problem. Five classifiers are trained on the same data and compared on Accuracy, AUC, Precision, Recall, F1 and MCC. The trained models are served through a Streamlit web app that evaluates them on uploaded test data without retraining.
