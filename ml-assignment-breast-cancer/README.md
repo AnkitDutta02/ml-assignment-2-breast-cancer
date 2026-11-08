@@ -7,11 +7,13 @@ M.Tech (AIML), Machine Learning
 
 **Live app:** `https://ml-assignment-2-breast-cancer-sdbt2aeiehzpmodzjc5r5w.streamlit.app/`
 
-**BITS Virtual Lab Execution Screenshot:** 
+**BITS Virtual Lab Execution Screenshots:** 
 
-<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/3563e72f-f66d-42b9-a283-19b8c6ab0ca4" />
+<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/ed2d74ba-86cc-45c5-a8dc-c71679ef7b35" />
 
-<img width="1917" height="1007" alt="image" src="https://github.com/user-attachments/assets/39fbe087-6fa5-4afa-8f0d-64a50cc7e4ff" />
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/3933ee0f-a401-4e0e-87be-b5b735c42628" />
+
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/81671bf1-7a56-407a-a690-a4798eae118e" />
 
 ## a. Problem statement
 
