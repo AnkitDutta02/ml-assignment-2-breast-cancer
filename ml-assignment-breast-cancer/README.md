@@ -42,7 +42,7 @@ Note: scikit-learn encodes 0 = malignant. The target was re-encoded so that **1 
 
 ## c. GitHub repository link
 
-`https://github.com/AnkitDutta02/ml-assignment-2-breast-cancer/tree/main/ml-assignment-breast-cancer`
+`https://github.com/AnkitDutta02/ml-assignment-2-breast-cancer.git`
 
 ```
 ml-assignment-breast-cancer/
