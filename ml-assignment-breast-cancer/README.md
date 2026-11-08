@@ -43,7 +43,7 @@ Note: scikit-learn encodes 0 = malignant. The target was re-encoded so that **1 
 `https://github.com/AnkitDutta02/ml-assignment-2-breast-cancer/tree/main/ml-assignment-breast-cancer`
 
 ```
-project-folder/
+ml-assignment-breast-cancer/
 ├── app.py                                 # Streamlit app (loads saved models, no retraining)
 ├── ML_Assignment_2_Classification.ipynb   # EDA, training, evaluation, model saving
 ├── requirements.txt
